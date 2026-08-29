@@ -19,3 +19,6 @@ The project demonstrates:
 - Markdown
 - Git version control
 - Web development
+## Workflow Test
+
+This change is used to test the GitHub Actions workflow.
